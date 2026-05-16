@@ -32,9 +32,10 @@ class AudioPlayButton extends StatelessWidget {
 
         return IconButton(
           icon: Icon(
-              isPlaying ? Icons.pause_circle_filled : Icons.play_circle_filled,
-              size: 32,
-              color: Theme.of(context).primaryColor),
+            isPlaying ? Icons.pause_circle_filled : Icons.play_circle_filled,
+            size: 32,
+            color: Theme.of(context).primaryColor,
+          ),
           onPressed: () => audioProvider.togglePlay(hymnNumber, audioUrl),
         );
       },

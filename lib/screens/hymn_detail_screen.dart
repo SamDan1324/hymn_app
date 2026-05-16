@@ -9,6 +9,7 @@ class HymnDetailScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final theme = Theme.of(context);
     return Scaffold(
       appBar: AppBar(
         title: Text('Hymn ${hymn.number}'),
@@ -16,7 +17,9 @@ class HymnDetailScreen extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(right: 16),
             child: AudioPlayButton(
-                hymnNumber: hymn.number, audioUrl: hymn.audioUrl),
+              hymnNumber: hymn.number,
+              audioUrl: hymn.audioUrl,
+            ),
           ),
         ],
       ),
@@ -27,18 +30,18 @@ class HymnDetailScreen extends StatelessWidget {
           children: [
             Text(
               hymn.title,
-              style: Theme.of(context).textTheme.headlineSmall?.copyWith(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 28,
-                  ),
+              style: theme.textTheme.headlineSmall?.copyWith(
+                fontWeight: FontWeight.bold,
+                fontSize: 28,
+              ),
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 8),
             Text(
               'Hymn ${hymn.number}',
-              style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                    color: Colors.grey.shade600,
-                  ),
+              style: theme.textTheme.titleMedium?.copyWith(
+                color: theme.hintColor,
+              ),
             ),
             const Divider(height: 32, thickness: 1),
             ...hymn.lyrics.map((segment) {
@@ -57,8 +60,8 @@ class HymnDetailScreen extends StatelessWidget {
                             fontSize: 14,
                             fontWeight: FontWeight.w600,
                             color: isChorus
-                                ? Colors.orange.shade800
-                                : Colors.grey.shade700,
+                                ? theme.colorScheme.primary
+                                : theme.hintColor,
                           ),
                         ),
                       ),

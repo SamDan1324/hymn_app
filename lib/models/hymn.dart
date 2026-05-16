@@ -15,7 +15,6 @@ class Hymn {
     required this.pdfUrl,
   });
 
-  // Creates a Hymn from JSON
   factory Hymn.fromJson(Map<String, dynamic> json) {
     var lyricsList = json['lyrics'] as List? ?? [];
     return Hymn(
@@ -27,7 +26,6 @@ class Hymn {
     );
   }
 
-  // Combines all lyrics into one string for easy searching
   String get fullLyricsText {
     return lyrics.map((seg) => seg.content).join(' ');
   }

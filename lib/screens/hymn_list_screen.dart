@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import '../models/hymn.dart';
 import '../services/hymn_service.dart';
-import '../providers/theme_provider.dart';
 import '../widgets/audio_play_button.dart';
 import 'hymn_detail_screen.dart';
 
@@ -24,7 +22,7 @@ class _HymnListScreenState extends State<HymnListScreen> {
   }
 
   Future<void> _loadHymns() async {
-    final hymns = await _hymnService.loadHymns();
+    final hymns = await _hymnService.loadHymns(context);
     setState(() {
       _allHymns = hymns;
       _filteredHymns = hymns;
@@ -39,17 +37,9 @@ class _HymnListScreenState extends State<HymnListScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<ThemeProvider>(context);
     return Scaffold(
       appBar: AppBar(
         title: const Text('Christian Hymns'),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.brightness_6),
-            onPressed: () => themeProvider.toggleTheme(),
-            tooltip: 'Switch theme',
-          ),
-        ],
         elevation: 0,
         bottom: PreferredSize(
           preferredSize: const Size.fromHeight(60),

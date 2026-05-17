@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import '../providers/audio_provider.dart';
 
 class AudioPlayButton extends StatelessWidget {
-  final int hymnNumber;
+  final String hymnNumber; // ← String, not int
   final String audioUrl;
 
   const AudioPlayButton({required this.hymnNumber, required this.audioUrl});

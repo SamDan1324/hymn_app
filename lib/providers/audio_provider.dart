@@ -3,14 +3,13 @@ import '../services/audio_service.dart';
 
 class AudioProvider extends ChangeNotifier {
   final AudioService _audioService = AudioService();
-  int? _playingHymnNumber;
+  String? _playingHymnNumber;
   bool _isLoading = false;
 
-  int? get playingHymnNumber => _playingHymnNumber;
+  String? get playingHymnNumber => _playingHymnNumber;
   bool get isLoading => _isLoading;
 
-  // Toggle play/pause for a given hymn
-  Future<void> togglePlay(int hymnNumber, String audioUrl) async {
+  Future<void> togglePlay(String hymnNumber, String audioUrl) async {
     if (audioUrl.isEmpty) {
       _playingHymnNumber = null;
       notifyListeners();

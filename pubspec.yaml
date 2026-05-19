@@ -12,6 +12,9 @@ dependencies:
   provider: ^6.1.1
   just_audio: ^0.9.36
   google_fonts: ^6.2.1
+  connectivity_plus: ^6.0.3
+  shared_preferences: ^2.3.2
+  url_launcher: ^6.3.0
 
 dev_dependencies:
   flutter_test:

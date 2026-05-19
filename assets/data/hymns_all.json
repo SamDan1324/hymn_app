@@ -24,7 +24,7 @@
         "content": "Fear not, little flock, whatever\nyour lot,\nHe enters all rooms, \"the\ndoors being shut;\"\nHe never forsakes, He never\nis gone,\nSo count on His presence in\ndarkness and\ndawn."
       }
     ],
-    "audio_url": "",
+    "audio_url": "https://res.cloudinary.com/dgtt5tz7d/video/upload/q_auto/f_auto/v1779193933/0001-Only-Believe_vxlcfc.mp3",
     "pdf_url": ""
   },
   {
@@ -85,7 +85,7 @@
         "content": "O, Jesus is coming soon,\nOur trials will then be o'er.\nWhat if our Lord this moment\nshould come\nFor those who are free from\nsin?\nThen would it bring you joy,\nOr sorrow and deep despair?\nWhen our Lord in glory comes,\nWe'll meet Him up in the air."
       }
     ],
-    "audio_url": "",
+    "audio_url": "https://res.cloudinary.com/dgtt5tz7d/video/upload/q_auto/f_auto/v1779193934/0003-They-Come-1_vyqgu9.mp3",
     "pdf_url": ""
   },
   {
@@ -212,7 +212,7 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "s I journey through the land,\nsinging as I\ngo,\nPointing souls to Calvary, to\nthe crimson\nflow,\nMany arrows pierce my soul\nfrom without,\nwithin;\nBut my Lord leads me on,\nthrough Him I\nmust win."
+        "content": "As I journey through the land,\nsinging as I\ngo,\nPointing souls to Calvary, to\nthe crimson\nflow,\nMany arrows pierce my soul\nfrom without,\nwithin;\nBut my Lord leads me on,\nthrough Him I\nmust win."
       },
       {
         "type": "chorus",
@@ -502,7 +502,7 @@
   },
   {
     "number": 18,
-    "title": "ONWARD, CHRISTIA N-SOLDIERS",
+    "title": "ONWARD, CHRISTIAN-SOLDIERS",
     "lyrics": [
       {
         "type": "verse",
@@ -512,16 +512,26 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "Onward, christian-soldiers!\nMarching as to war,\nWith the cross of Jesus\nGoing on before.\nLike a mighty army\nMoves the church of God;\nBrothers, we are treading\nWhere the saints have trod;\nWe are not divided,\nAll one body we;\nOne in hope and doctrine,\nOne in charity.\nCrowns and thrones may\nperish,\nKingdoms rise and wane;\nBut the church of Jesus\nConstant will remain;\nGates of hell can never\n'Gainst that church prevail;\nWe have Christ's own promise\nWhich can never fail."
+        "content": "Onward, christian-soldiers!\nMarching as to war,\nWith the cross of Jesus\nGoing on before."
       },
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "At the sign of triumph,\nSatan's host doth flee;\nO, then, christian-soldiers,\nOn to victory!\nHell's foundations quiver-\nAt the shout of praise;\nBrothers, lift your voices,\nLoud your anthems raise."
+        "content": "Like a mighty army\nMoves the church of God;\nBrothers, we are treading\nWhere the saints have trod;\nWe are not divided,\nAll one body we;\nOne in hope and doctrine,\nOne in charity."
       },
       {
         "type": "verse",
         "label": "Verse 3",
+        "content": "Crowns and thrones may\nperish,\nKingdoms rise and wane;\nBut the church of Jesus\nConstant will remain;\nGates of hell can never\n'Gainst that church prevail;\nWe have Christ's own promise\nWhich can never fail."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 4",
+        "content": "At the sign of triumph,\nSatan's host doth flee;\nO, then, christian-soldiers,\nOn to victory!\nHell's foundations quiver-\nAt the shout of praise;\nBrothers, lift your voices,\nLoud your anthems raise."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 5",
         "content": "Onward, then, ye people,\nJoin our happy throng;\nBlend with ours your voices\nIn the triumph song;\nGlory, laud, and honour,\nUnto Christ the King;\nThis through countless ages\nMen and angels sing."
       }
     ],
@@ -535,7 +545,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "It's not by works of\nrighteousness\nBut by His grace alone;\nIt's not by works of\nrighteousness\nBut by His grace alone;\nIt's not by works of\nrighteousness\nBut by His grace alone;\nAnd we are complete in Him.\nC HORUS\nComplete, complete, complete\nin Him,\nWe are complete in Him;\nComplete, complete, complete\nin Him,\nWe are complete in Him."
+        "content": "It's not by works of\nrighteousness\nBut by His grace alone;\nIt's not by works of\nrighteousness\nBut by His grace alone;\nIt's not by works of\nrighteousness\nBut by His grace alone;\nAnd we are complete in Him."
+      },
+      {
+        "type": "chorus",
+        "label": "CHORUS",
+        "content": "Complete, complete, complete\nin Him,\nWe are complete in Him;\nComplete, complete, complete\nin Him,\nWe are complete in Him."
       },
       {
         "type": "verse",
@@ -563,16 +578,21 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "There'll be singing, there'll be\nshouting,\nThere'll be sorrow, there'll be\npain,\nThere'll be weeping, there'll be\npraying,\nWhen our Lord shall come\nagain.\nWill His coming bring\nrejoicing?\nOr will it bring tears and pain?\nAre you ready to receive Him,\nWhen our Lord shall come\nagain?"
+        "content": "There'll be singing, there'll be\nshouting,\nThere'll be sorrow, there'll be\npain,\nThere'll be weeping, there'll be\npraying,\nWhen our Lord shall come\nagain."
       },
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Will you join in lamentation?\nOr the angels' glad refrain?\nWill you help His people crown\nHim,\nWhen our Lord shall come\nagain?"
+        "content": "Will His coming bring\nrejoicing?\nOr will it bring tears and pain?\nAre you ready to receive Him,\nWhen our Lord shall come\nagain?"
       },
       {
         "type": "verse",
         "label": "Verse 3",
+        "content": "Will you join in lamentation?\nOr the angels' glad refrain?\nWill you help His people crown\nHim,\nWhen our Lord shall come\nagain?"
+      },
+      {
+        "type": "verse",
+        "label": "Verse 4",
         "content": "Work and pray till Jesus calls\nyou,\nHelp to gather-in the grain;\nThen with joy you'll meet the\nSaviour,\nWhen our Lord shall come\nagain."
       }
     ],
@@ -586,7 +606,7 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "The fight is on,the trumpet\nsound is ringing out,\nThe cry \"To arms\" is heard\nafar and near;\nThe Lord of hosts is marching\non to victory,\nThe triumph of the right will\nsoon appear."
+        "content": "The fight is on, the trumpet\nsound is ringing out,\nThe cry \"To arms\" is heard\nafar and near;\nThe Lord of hosts is marching\non to victory,\nThe triumph of the right will\nsoon appear."
       },
       {
         "type": "chorus",
@@ -1795,11 +1815,26 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "There is power, power,\nwonder-working\npower,\nIn the blood of the Lamb;\nThere is power, power,\nwonder-working\npower,\nIn the precious blood of the\nLamb.\nHis riffle's old and rusty, and\nit's hanging on\nthe wall;\nHis Bible's worn and dusty,\nand it's seldom\ntouched at all;\nBut his message from this\nBible will meet us\nat Judgment Day,\nFor God's truth keeps\nmarching on."
+        "content": "Leaning, leaning,\nLeaning on the everlasting\narm;\nLeaning, leaning,\nLeaning on the everlasting\narm."
       },
       {
         "type": "verse",
         "label": "Verse 3",
+        "content": "He preached the coming\njudgment of fire and\nbrimstone;\nAnd a glorious, endless\nHeaven of the\njustified alone;\nAs he rode across the\nmountains you could\nhear him sing this song,\nAs He went riding on."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 4",
+        "content": "There is power, power,\nwonder-working\npower,\nIn the blood of the Lamb;\nThere is power, power,\nwonder-working\npower,\nIn the precious blood of the\nLamb.\nHis riffle's old and rusty, and\nit's hanging on\nthe wall;\nHis Bible's worn and dusty,\nand it's seldom\ntouched at all;\nBut his message from this\nBible will meet us\nat Judgment Day,\nFor God's truth keeps\nmarching on."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 5",
+        "content": "His riffle's old and rusty, and\nit's hanging on\nthe wall;\nHis Bible's worn and dusty,\nand it's seldom\ntouched at all;\nBut his message from this\nBible will meet us\nat Judgment Day,\nFor God's truth keeps\nmarching on."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 6",
         "content": "Glory! Glory, hallelujah!\nGlory! Glory, hallelujah!\nGlory! Glory, hallelujah!\nHis truth is marching on."
       }
     ],
@@ -3375,7 +3410,17 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "Just a closer walk with Thee,\nGrant it, Jesus, is my plea;\nDaily walking closer to Thee,\nLet it be, dear Lord, let it be.\nThrough this world of toil and\nsnares,\nIf I falter, Lord, who cares?\nWho with me my burden\nshare?\nNone but Thee, dear Lord,\nnone but Thee.\nWhen my feeble life is o'er,\nTime for me will be no more;\nGuide me gently, safely o'er,\nTo Thy kingdom shore, to Thy\nshore."
+        "content": "Just a closer walk with Thee,\nGrant it, Jesus, is my plea;\nDaily walking closer to Thee,\nLet it be, dear Lord, let it be."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 2",
+        "content": "Through this world of toil and\nsnares,\nIf I falter, Lord, who cares?\nWho with me my burden\nshare?\nNone but Thee, dear Lord,\nnone but Thee."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 3",
+        "content": "When my feeble life is o'er,\nTime for me will be no more;\nGuide me gently, safely o'er,\nTo Thy kingdom shore, to Thy\nshore."
       }
     ],
     "audio_url": "",
@@ -3449,16 +3494,21 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "Are you washed in the blood,\nIn the soul-cleansing blood of\nthe Lamb?\nAre your garments spotless?\nAre they white\nas snow?\nAre you washed in the blood\nof the Lamb?\nAre you walking daily by the\nSaviour's side?\nAre you washed in the blood\nof the Lamb?\nDo you rest each moment in\nthe Crucified?\nAre you washed in the blood\nof the Lamb?"
+        "content": "Are you washed in the blood,\nIn the soul-cleansing blood of\nthe Lamb?\nAre your garments spotless?\nAre they white\nas snow?\nAre you washed in the blood\nof the Lamb?"
       },
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "When the Bridegroom cometh,\nwill your robe\nbe white,\nPure and white in the blood of\nthe Lamb?\nWill your soul be ready for the\nmansions\nbright\nAnd be washed in the blood of\nthe Lamb?"
+        "content": "Are you walking daily by the\nSaviour's side?\nAre you washed in the blood\nof the Lamb?\nDo you rest each moment in\nthe Crucified?\nAre you washed in the blood\nof the Lamb?"
       },
       {
         "type": "verse",
         "label": "Verse 3",
+        "content": "When the Bridegroom cometh,\nwill your robe\nbe white,\nPure and white in the blood of\nthe Lamb?\nWill your soul be ready for the\nmansions\nbright\nAnd be washed in the blood of\nthe Lamb?"
+      },
+      {
+        "type": "verse",
+        "label": "Verse 4",
         "content": "Lay aside the garments that\nare stained with\nsin\nAnd be washed in the blood of\nthe Lamb.\nThere's a fountain flowing for\nthe soul\nunclean,\nO, be washed in the blood of\nthe Lamb."
       }
     ],
@@ -4041,7 +4091,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "Alas! And did my Saviour\nbleed,\nAnd did my Sovereign die?\nWould He devote that sacred\nhead\nFor such a worm as I?\nC HORUS\nAt the cross, at the cross\nwhere I first saw\nthe light,\nAnd the burden of my heart\nrolled away,\nIt was there by faith I received\nmy sight,\nAnd now I am happy all the\nday!"
+        "content": "Alas! And did my Saviour\nbleed,\nAnd did my Sovereign die?\nWould He devote that sacred\nhead\nFor such a worm as I?"
+      },
+      {
+        "type": "chorus",
+        "label": "CHORUS",
+        "content": "At the cross, at the cross\nwhere I first saw\nthe light,\nAnd the burden of my heart\nrolled away,\nIt was there by faith I received\nmy sight,\nAnd now I am happy all the\nday!"
       },
       {
         "type": "verse",
@@ -4069,12 +4124,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "In Christ alone my hope is\nfound;\nHe is my light, my strength, my\nsong;\nThis cornerstone, this solid\nground,\nFirm through the fiercest\ndrought and storm.\nWhat heights of love, what\ndepths of peace,\nWhen fears are stilled, when\nstrivings cease!\nMy comforter, my all in all-"
+        "content": "In Christ alone my hope is\nfound;\nHe is my light, my strength, my\nsong;\nThis cornerstone, this solid\nground,\nFirm through the fiercest\ndrought and storm.\nWhat heights of love, what\ndepths of peace,\nWhen fears are stilled, when\nstrivings cease!\nMy comforter, my all in all-Here in the love of Christ I\nstand."
       },
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Here in the love of Christ I\nstand.\nIn Christ alone, Who took on\nflesh,\nFullness of God in helpless\nbabe!\nThis gift of love and\nrighteousness,\nScorned by the ones He came\nto save.\nTill on that cross as Jesus\ndied,\nThe wrath of God was\nsatisfied;\nFor ev'ry sin on Him was laid-\nHere in the death of Christ I\nlive."
+        "content": "In Christ alone, Who took on\nflesh,\nFullness of God in helpless\nbabe!\nThis gift of love and\nrighteousness,\nScorned by the ones He came\nto save.\nTill on that cross as Jesus\ndied,\nThe wrath of God was\nsatisfied;\nFor ev'ry sin on Him was laid-\nHere in the death of Christ I\nlive."
       },
       {
         "type": "verse",
@@ -4875,7 +4930,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "I'm a pilgrim and a stranger\nWandering through this world\nof sin;\nOn my way to that fair city,\nWhen the saints go marching\nin.\nC HORUS\nWhen the saints go marching\nin,\nWhen the saints go marching\nin,\nLord, I want to be in that\nnumber\nWhen the saints go marching\nin."
+        "content": "I'm a pilgrim and a stranger\nWandering through this world\nof sin;\nOn my way to that fair city,\nWhen the saints go marching\nin."
+      },
+      {
+        "type": "chorus",
+        "label": "CHORUS",
+        "content": "When the saints go marching\nin,\nWhen the saints go marching\nin,\nLord, I want to be in that\nnumber\nWhen the saints go marching\nin."
       },
       {
         "type": "verse",
@@ -4913,12 +4973,12 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "There are many things I'd like\nto be\nAs my journey I pursue,\nI have longed to be a leader\nLike a mortal man would do;\nI would like to be a millionaire,\nWith a million to bestow,\nBut I'd rather be an old-time\nChristian\nThan anything I know.\nAll the world is bright since I\ngot right,"
+        "content": "There are many things I'd like\nto be\nAs my journey I pursue,\nI have longed to be a leader\nLike a mortal man would do;\nI would like to be a millionaire,\nWith a million to bestow,\nBut I'd rather be an old-time\nChristian\nThan anything I know."
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "Now I sing and pray and\nshout,\nAll my burdens have been\nlifted\nSince the Saviour brought me\nout;\nI will tell the world both far and\nnear\nAs I travel here below,\nThat I'd rather be an old-time\nchristian\nThan anything I know."
+        "content": "All the world is bright since I\ngot right,\nNow I sing and pray and\nshout,\nAll my burdens have been\nlifted\nSince the Saviour brought me\nout;\nI will tell the world both far and\nnear\nAs I travel here below,\nThat I'd rather be an old-time\nchristian\nThan anything I know."
       }
     ],
     "audio_url": "",
@@ -5691,12 +5751,12 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "\"Your many sins are all\nforgiven,\"\nO, hear the voice of Jesus;\nGo on your way in peace to\nHeaven,"
+        "content": "\"Your many sins are all\nforgiven,\"\nO, hear the voice of Jesus;\nGo on your way in peace to\nHeaven,\nAnd wear a crown with Jesus."
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "And wear a crown with Jesus.\nAll glory to the dying Lamb!\nI now believe in Jesus;\nI love the blessed Saviour's\nname,\nI love the name of Jesus."
+        "content": "All glory to the dying Lamb!\nI now believe in Jesus;\nI love the blessed Saviour's\nname,\nI love the name of Jesus."
       },
       {
         "type": "verse",
@@ -5907,7 +5967,12 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "Hear the invitation,\nCome, \"whosoever will.\"\nPraise God for full salvation\nFor \"whosoever will.\"\n. Verse 2\n\"All things are ready,\" come to\nthe feast!\nCome, for the door is open\nwide;\nA place of honour is reserved\nFor you at the Master's side."
+        "content": "Hear the invitation,\nCome, \"whosoever will.\"\nPraise God for full salvation\nFor \"whosoever will."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 2",
+        "content": "All things are ready,\" come to\nthe feast!\nCome, for the door is open\nwide;\nA place of honour is reserved\nFor you at the Master's side."
       },
       {
         "type": "verse",
@@ -5978,7 +6043,12 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "I will meet you, I will meet you\nJust inside the Eastern Gate\nover there;\nI will meet you, I will meet you,\nI will meet you in the morning\nover there.\n. Verse 2\nIf you hasten off to Glory,\nLinger near the Eastern Gate,\nFor I'm coming in the morning,\nSo you'll not have long to wait."
+        "content": "I will meet you, I will meet you\nJust inside the Eastern Gate\nover there;\nI will meet you, I will meet you,\nI will meet you in the morning\nover there."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 2",
+        "content": "If you hasten off to Glory,\nLinger near the Eastern Gate,\nFor I'm coming in the morning,\nSo you'll not have long to wait."
       },
       {
         "type": "verse",
@@ -6236,6 +6306,11 @@
         "type": "verse",
         "label": "Verse 3",
         "content": "Do not be fearful or filled with\ndread,\nYour prophet sleepeth, he is\nnot dead;\nThe bride is waiting now for\nthat \"voice,\"\nAnd this hope we can now\nrejoice.\nin\nHis word of promise he gave\nthe bride,\nFrom his \"white charger\" the\nprophet cried,\n\"Yet one more time shall I ride\nthis trail,\"\nThus Saith The Lord can\nnever fail."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 4",
+        "content": "His word of promise he gave\nthe bride,\nFrom his \"white charger\" the\nprophet cried,\n\"Yet one more time shall I ride\nthis trail,\"\nThus Saith The Lord can\nnever fail."
       }
     ],
     "audio_url": "",
@@ -6385,12 +6460,12 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Jesus, my Saviour, on\nCalvary's tree,\nPaid the great debt, and my\nsoul He set free;\nO, it was wonderful, -how\ncould it be?\nDying for me, for me.\nDying for me, for me!\nDying for me, for me!\nO, it was wonderful, -how\ncould it be?"
+        "content": "Jesus, my Saviour, on\nCalvary's tree,\nPaid the great debt, and my\nsoul He set free;\nO, it was wonderful, -how\ncould it be?\nDying for me, for me.\nDying for me, for me!\nDying for me, for me!\nO, it was wonderful, -how\ncould it be?\nDying for me, for me!"
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "Dying for me, for me!\nJesus, my Saviour, the same\nas of old,\nWhile I was wandering afar\nfrom the fold;\nGently and long He did plead\nwith my soul,\nCalling for me, for me.\nCalling for me, for me!\nCalling for me, for me!\nGently and long He did plead\nwith my soul,\nCalling for me, for me!"
+        "content": "Jesus, my Saviour, the same\nas of old,\nWhile I was wandering afar\nfrom the fold;\nGently and long He did plead\nwith my soul,\nCalling for me, for me.\nCalling for me, for me!\nCalling for me, for me!\nGently and long He did plead\nwith my soul,\nCalling for me, for me!"
       },
       {
         "type": "verse",
@@ -6484,16 +6559,21 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Many summers you have\nwasted,\nRipened harvests you have\nseen;\n\"Winter snows by spring have\nmelted,\"\nYet you linger in your sin.\nJesus for your choice is\nwaiting;\nTarry not: at once decide!\nWhile the Spirit now is striving,\nYield and seek the Saviour's\nside."
+        "content": "Many summers you have\nwasted,\nRipened harvests you have\nseen;\n\"Winter snows by spring have\nmelted,\"\nYet you linger in your sin."
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "Cease of fitness to be\nthinking;\nDo not longer try to feel;\nIt is trusting and not feeling,\nThat will give the Spirit's seal."
+        "content": "Jesus for your choice is\nwaiting;\nTarry not: at once decide!\nWhile the Spirit now is striving,\nYield and seek the Saviour's\nside."
       },
       {
         "type": "verse",
         "label": "Verse 4",
+        "content": "Cease of fitness to be\nthinking;\nDo not longer try to feel;\nIt is trusting and not feeling,\nThat will give the Spirit's seal."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 5",
         "content": "Let your will to God be given,\nTrust in Christ's atoning blood;\nLook to Jesus now in Heaven,\nRest on His unchanging word."
       }
     ],
@@ -6718,12 +6798,12 @@
   },
   {
     "number": 234,
-    "title": "IT SHALL FLOW LIKE A RIVER",
+    "title": "NO OTHER GOD",
     "lyrics": [
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "It shall flow like a river; it shall\nfall like the rain,\nIt shall rise as the dawning in\nglory o'er the land,\nFor the knowledge of the Lord\nshall fill all the\nearth,\nAnd the Spirit of the Lord shall\nfall."
+        "content": "From north to south, there is\nno other God,\nFrom east to west,(I know), there is no other God.\nFrom north to south,\nthere is no one like Thee,\nFrom east to west,\n(I know) there is no one like\nThee."
       }
     ],
     "audio_url": "",
@@ -7387,17 +7467,37 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "Peace, perfect peace, in this\ndark world of sin?\nThe blood of Jesus whispers\npeace within.\nPeace, perfect peace, by\nthronging duties\npressed?\nTo do the will of Jesus, this is\nrest.\nPeace, perfect peace, with\nsorrows surging\nround?\nOn Jesus' bosom naught but\ncalm is found."
+        "content": "Peace, perfect peace, in this\ndark world of sin?\nThe blood of Jesus whispers\npeace within."
       },
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Peace, perfect peace, with\nloved ones far away?\nIn Jesus' keeping we are safe,\nand they.\nPeace, perfect peace, our\nfuture all unknown?\nJesus we know, and He is on\nthe throne."
+        "content": "Peace, perfect peace, by\nthronging duties\npressed?\nTo do the will of Jesus, this is\nrest."
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "Peace, perfect, peace, death\nshadowing us and\nours?\nJesus has vanquished death\nand all its powers.\nIt is enough: earth's struggles\nsoon shall cease,\nAnd Jesus calls to Heaven's\nperfect peace."
+        "content": "Peace, perfect peace, with\nsorrows surging\nround?\nOn Jesus' bosom naught but\ncalm is found."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 4",
+        "content": "Peace, perfect peace, with\nloved ones far away?\nIn Jesus' keeping we are safe,\nand they."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 5",
+        "content": "Peace, perfect peace, our\nfuture all unknown?\nJesus we know, and He is on\nthe throne."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 6",
+        "content": "Peace, perfect, peace, death\nshadowing us and\nours?\nJesus has vanquished death\nand all its powers."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 7",
+        "content": "It is enough: earth's struggles\nsoon shall cease,\nAnd Jesus calls to Heaven's\nperfect peace."
       }
     ],
     "audio_url": "",
@@ -9306,7 +9406,12 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "Until you know the loving hand\nThat reaches down to fallen\nman\nAnd picks him up above the\nplane\nWhere he has trod;\nUntil you know just how it feels\nTo know that God is really\nreal,\nYou know nothing\nUntil you know the love of\nGod.\nIf in your lifetime you could\nmeet everybody,\nAnd you could call every name\nfrom here to\nyonder,\nIf you've not come face to face\nwith Jesus\nand His saving grace,\nFriend, you've known nothing\nuntil you've\nknown the love of God."
+        "content": "Until you know the loving hand\nThat reaches down to fallen\nman\nAnd picks him up above the\nplane\nWhere he has trod;\nUntil you know just how it feels\nTo know that God is really\nreal,\nYou know nothing\nUntil you know the love of\nGod."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 2",
+        "content": "If in your lifetime you could\nmeet everybody,\nAnd you could call every name\nfrom here to\nyonder,\nIf you've not come face to face\nwith Jesus\nand His saving grace,\nFriend, you've known nothing\nuntil you've\nknown the love of God."
       }
     ],
     "audio_url": "",
@@ -9660,7 +9765,12 @@
       {
         "type": "verse",
         "label": "Verse 5",
-        "content": "The patriarchs of old\nThere from their travels cease:\nThe prophets there behold:\nThe Harpers I might hear\nHarping on harps of gold."
+        "content": "The patriarchs of old\nThere from their travels cease:\nThe prophets there behold:\nTheir longed for Prince of\npeace."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 6",
+        "content": "The Lamb's apostles there\nI might with joy behold:\nThe harpers I might hear:\nHarping on harps of\ngold."
       }
     ],
     "audio_url": "",
@@ -10688,7 +10798,7 @@
       {
         "type": "verse",
         "label": "Verse 4",
-        "content": "Le us, then, with gladsome\nmind\nPraise the Lord for He is kind;\nFor His mercies shall endure,\nEver faithful, ever sure."
+        "content": "Let us, then, with gladsome\nmind\nPraise the Lord for He is kind;\nFor His mercies shall endure,\nEver faithful, ever sure."
       }
     ],
     "audio_url": "",
@@ -10879,12 +10989,17 @@
       {
         "type": "verse",
         "label": "Verse 5",
-        "content": "\"Even down to old age all My\npeople shall prove\nMy sovereign, eternal,\nunchangeable love;\nAnd when hoary hairs shall\ntheir temples adorn\nLike lambs, they shall still in\nMy bosom be borne.\"\n\"The soul that on Jesus has\nleaned for repose,\nI will not, I will not desert to its\nfoes;"
+        "content": "When through fiery trials thy\npathways shall lie,\nMy grace, all sufficient, shall\nbe thy supply;\nThe flame shall not hurt thee; I\nonly design\nThy dross to consume, and\nthy gold to\nrefine."
       },
       {
         "type": "verse",
         "label": "Verse 6",
-        "content": "That soul, though all hell\nshould endeavour to shake,\nI'll never, no never, no never\nforsake!\""
+        "content": "\"Even down to old age all My\npeople shall prove\nMy sovereign, eternal,\nunchangeable love;\nAnd when hoary hairs shall\ntheir temples adorn\nLike lambs, they shall still in\nMy bosom be borne."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 7",
+        "content": "The soul that on Jesus has\nleaned for repose,\nI will not, I will not desert to its\nfoes;\nThat soul, though all hell\nshould endeavour to shake,\nI'll never, no never, no never\nforsake!\""
       }
     ],
     "audio_url": "",
@@ -11080,12 +11195,12 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "I am my Beloved's and He is\nmine,\nHis banner over me is love!\nI am my Beloved's and He is\nmine,\nHis banner over me is love!\nHis banner over me is love!\nHe is the Vine, and we're the\nbranches,\nHis banner over me is love!\nHe is the Vine, and we're the\nbranches,\nHis banner over me is love!"
+        "content": "I am my Beloved's and He is\nmine,\nHis banner over me is love!\nI am my Beloved's and He is\nmine,\nHis banner over me is love!\nHis banner over me is love!"
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "He is the Vine, and we're the\nbranches,\nHis banner over me is love!\nHis banner over me is love!"
+        "content": "He is the Vine, and we're the\nbranches,\nHis banner over me is love!\nHe is the Vine, and we're the\nbranches,\nHis banner over me is love!\nHe is the Vine, and we're the\nbranches,\nHis banner over me is love!\nHis banner over me is love!"
       },
       {
         "type": "verse",
@@ -11540,7 +11655,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "O, my comrades! See the\nsignal\nWaving in the sky;\nReinforcements now\nappearing,\nVictory is nigh.\nC HORUS\n\"Hold the fort, for I am\ncoming\",\nJesus signals still;\nWave the answer back to\nHeaven,\n\"By Thy grace, we will.\""
+        "content": "O, my comrades! See the\nsignal\nWaving in the sky;\nReinforcements now\nappearing,\nVictory is nigh."
+      },
+      {
+        "type": "chorus",
+        "label": "CHORUS",
+        "content": "\"Hold the fort, for I am\ncoming\",\nJesus signals still;\nWave the answer back to\nHeaven,\n\"By Thy grace, we will\"."
       },
       {
         "type": "verse",
@@ -11620,31 +11740,6 @@
         "type": "verse",
         "label": "Verse 3",
         "content": "Jesus may come in the\nmorning,\nJesus may come at noon,\nJesus may come in the\nevening,\nSo keep your heart in tune."
-      },
-      {
-        "type": "verse",
-        "label": "Verse 4",
-        "content": "408\n'TIS NOT AN EASY ROAD"
-      },
-      {
-        "type": "verse",
-        "label": "Verse 5",
-        "content": "'Tis not an easy road\nWe are travelling to Heaven\nFor many are the thorns on\nthe way;\n'Tis not an easy road\nBut the Saviour is with us\nHis presence gives us joy\neveryday."
-      },
-      {
-        "type": "chorus",
-        "label": "CHORUS",
-        "content": "No, no! 'Tis not an easy road,\nNo, no! 'Tis not an easy road;\nBut Jesus walks beside me\nAnd brightens the journey\nAnd lightens the heavy load."
-      },
-      {
-        "type": "verse",
-        "label": "Verse 6",
-        "content": "'Tis not an easy road,\nThere are trials and troubles\nAnd many are the dangers we\nmeet;\nBut Jesus guards and keeps\nso that nothing\ncan harm us\nAnd smoothens rough paths\nfor our feet."
-      },
-      {
-        "type": "verse",
-        "label": "Verse 7",
-        "content": "Though I am often footsore\nand weary from\ntravel,\nThough I am often bowed\ndown with care;\nA better day is coming, when\nhome in the\nglory\nWe'll rest in perfect peace\nover there."
       }
     ],
     "audio_url": "",
@@ -11948,17 +12043,17 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "Jesus Christ is the Son of\nGod,\nO yes, O yes!\nHallelujah He arose,\nO yes, O yes!\nHallelujah He arose, the Son\nof God arose;\nHallelujah He arose!\nO yes, O yes!\nJesus Christ is the Prince of\nPeace\nO yes, O yes!\nHallelujah He arose,\nO yes, O yes!\nHallelujah He arose, the\nPrince of Peace\narose;\nHallelujah He arose!\nO yes, O yes!"
+        "content": "Jesus Christ is the Son of\nGod,\nO yes, O yes!\nHallelujah He arose,\nO yes, O yes!\nHallelujah He arose, the Son\nof God arose;\nHallelujah He arose!\nO yes, O yes!"
       },
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Jesus Christ is the King of\nkings\nO yes, O yes!\nHallelujah He arose,"
+        "content": "Jesus Christ is the Prince of\nPeace\nO yes, O yes!\nHallelujah He arose,\nO yes, O yes!\nHallelujah He arose, the\nPrince of Peace\narose;\nHallelujah He arose!\nO yes, O yes!"
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "O yes, O yes!\nHallelujah He arose, the King\nof kings arose;\nHallelujah He arose!\nO yes, O yes!"
+        "content": "Jesus Christ is the King of\nkings\nO yes, O yes!\nHallelujah He arose,\nO yes, O yes!\nHallelujah He arose, the King\nof kings arose;\nHallelujah He arose!\nO yes, O yes!"
       }
     ],
     "audio_url": "",
@@ -11971,7 +12066,12 @@
       {
         "type": "chorus",
         "label": "CHORUS",
-        "content": "Jesus never fails,\nJesus never fails,\nHeaven and earth will pass\naway,\nBut Jesus never fails.\nYour father may let you down\nYour brother may let you down\nThe men of this world may let\nyou down,\nBut Jesus never fails."
+        "content": "Jesus never fails,\nJesus never fails,\nHeaven and earth will pass\naway,\nBut Jesus never fails."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 1",
+        "content": "Your father may let you down\nYour brother may let you down\nThe men of this world may let\nyou down,\nBut Jesus never fails."
       }
     ],
     "audio_url": "",
@@ -12349,18 +12449,18 @@
         "content": "As the deer panteth for the\nwaters\nSo my soul longeth after Thee\nYou alone are my heart's\ndesire\nAnd long to worship Thee."
       },
       {
-        "type": "verse",
-        "label": "Verse 2",
+        "type": "chorus",
+        "label": "Chorus",
         "content": "You alone are my strength, my\nshield\nTo you alone may my spirit\nyields\nYou alone are my heart's\ndesire\nAnd long to worship thee"
       },
       {
         "type": "verse",
-        "label": "Verse 3",
+        "label": "Verse 2",
         "content": "You're my friend\nAnd you are my brother\nEven though you are a King.\nI love you more than anything."
       },
       {
         "type": "verse",
-        "label": "Verse 4",
+        "label": "Verse 3",
         "content": "I want You more than gold or\nsilver\nOnly You can satisfy\nYou alone are the real joy\ngiver\nAnd the apple of my eye"
       }
     ],
@@ -12374,7 +12474,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "Oh! to be like Thee, blessed\nRedeemer,\nThis is my constant longing\nand prayer;\nGladly I'll forfeit all of earth's\ntreasures,\nJesus, thy perfect likeness to\nwear.\nRefrain:\n*Oh! To be like Thee, Oh! to\nbe like Thee,*\n*Blessed Redeemer, pure as\nThou art,*\n*Come in Thy sweetness,\ncome in Thy*\n*Fullness,*\n*Stamp Thine own image\ndeep on my heart.*"
+        "content": "Oh! to be like Thee, blessed\nRedeemer,\nThis is my constant longing\nand prayer;\nGladly I'll forfeit all of earth's\ntreasures,\nJesus, thy perfect likeness to\nwear."
+      },
+      {
+        "type": "chorus",
+        "label": "Refrain",
+        "content": "Oh! To be like Thee, Oh! to\nbe like Thee,\nBlessed Redeemer, pure as\nThou art,\nCome in Thy sweetness,\ncome in Thy\nFullness,\nStamp Thine own image\ndeep on my heart."
       },
       {
         "type": "verse",
@@ -12410,23 +12515,23 @@
         "content": "I would not ask for earthly\nstore\nThou wilt my need supply;\nBut I would covet, more and\nmore,\nThe clear and single eye,\nTo see my duty face to face,\nAnd trust Thee, Lord, for daily\ngrace."
       },
       {
-        "type": "verse",
-        "label": "Verse 2",
+        "type": "chorus",
+        "label": "Chorus",
         "content": "Then shall my heart keep\nsinging\nWhile to the cross I cling;\nFor rest is sweet at Jesus'\nfeet,\nWhile homeward faith keeps\nwinging,\nWhile homeward faith keeps\nwinging."
       },
       {
         "type": "verse",
-        "label": "Verse 3",
+        "label": "Verse 2",
         "content": "I care not for the empty show\nThat thoughtless worldlings\nsee;\nBut gladly do the best I know\nAnd leave the rest with Thee.\nWell satisfied that sweet\nreward\nIs sure to those who trust the\nLord."
       },
       {
         "type": "verse",
-        "label": "Verse 4",
+        "label": "Verse 3",
         "content": "Whate'er the crosses mine\nshall be,\nI would not dare to shun;\nBut only ask to live for Thee,\nAnd that Thy will be done;\nThy will, O Lord, be mine each\nday,\nWhile pressing on my\nhomeward way."
       },
       {
         "type": "verse",
-        "label": "Verse 5",
+        "label": "Verse 4",
         "content": "And when at last, my labour\no'er,\nI cross the narrow sea,\nGrant, Lord, that on the other\nshore,\nMy soul may dwell with Thee;\nAnd learn what here I cannot\nknow,\nWhy Thou hast ever loved me\nso."
       }
     ],
@@ -12481,8 +12586,8 @@
         "content": "He giveth more grace when\nthe burdens grow greater,\nHe sendeth more strength\nwhen the labors increase;\nTo added afflictions He addeth\nHis mercy,\nTo multiplied trials, His\nmultiplied peace."
       },
       {
-        "type": "verse",
-        "label": "Verse 2",
+        "type": "chorus",
+        "label": "Chorus",
         "content": "His love has no limits, His\ngrace has no measure,\nHis power has no boundary\nknown unto men;\nFor out of His infinite riches in\nJesus\nHe giveth, and giveth, and\ngiveth again."
       },
       {
@@ -12534,7 +12639,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "Conquerors and overcomers\nnow are we,\nThro' the precious blood of\nChrist we've victory\nIf the Lord be for us we can\nnever fail,\nNothing 'gainst His mighty\npower can e'er prevail.\nRefrain:\nConquerors are we, thro' the\nblood of Jesus\nGod will give us victory, thro'\nthe blood of Jesus\nThrough the Lamb for sinners\nslain,\nYet who lives and reigns\nagain,\nMore than conquerors are we,\nMore than conquerors are we."
+        "content": "Conquerors and overcomers\nnow are we,\nThro' the precious blood of\nChrist we've victory\nIf the Lord be for us we can\nnever fail,\nNothing 'gainst His mighty\npower can e'er prevail."
+      },
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "content": "Conquerors are we, thro' the\nblood of Jesus\nGod will give us victory, thro'\nthe blood of Jesus\nThrough the Lamb for sinners\nslain,\nYet who lives and reigns\nagain,\nMore than conquerors are we,\nMore than conquerors are we."
       },
       {
         "type": "verse",
@@ -12570,7 +12680,7 @@
         "content": "Tenderly guide us,\nO Shepherd of love,\nTo the green pastures\nand waters above,\nGuarding us ever by\nnight and by day,\nNever from Thee would I\nstray."
       },
       {
-        "type": "verse",
+        "type": "chorus",
         "label": "Verse 2",
         "content": "Never! Never!\nNever! Oh, never!\nFor Thou art the way;\nNever! Never!\nNever from Thee would we\nstray!"
       },
@@ -12595,7 +12705,12 @@
       {
         "type": "verse",
         "label": "Verse 1",
-        "content": "All creatures of our God and\nKing,\nLift up your voices with us\nsing,\nAlleluia! Alleluia!\nThou burning sun with golden\nbeam\nThou silver moon with softer\ngleam!\nRefrain:\nO praise Him! O praise Him!\nAlleluia! Alleluia! Alleluia!"
+        "content": "All creatures of our God and\nKing,\nLift up your voices with us\nsing,\nAlleluia! Alleluia!\nThou burning sun with golden\nbeam\nThou silver moon with softer\ngleam!"
+      },
+      {
+        "type": "chorus",
+        "label": "Refrain",
+        "content": "O praise Him! O praise Him!\nAlleluia! Alleluia! Alleluia!."
       },
       {
         "type": "verse",
@@ -12694,7 +12809,7 @@
   },
   {
     "number": 452,
-    "title": "ACROSS THE",
+    "title": "ACROSS THE BRIDGE",
     "lyrics": [
       {
         "type": "verse",
@@ -12834,7 +12949,7 @@
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "Forgive these sins I have\nconfessed to Thee\nForgive the secret sins I do not\nsee\nGuide me, love me and my\nkeeper be\nDear Lord, forgive."
+        "content": "Forgive these sins I have\nconfessed to Thee\nForgive the secret sins I do not\nsee\nGuide me, love me and my\nkeeper be\nDear Lord, forgive..."
       }
     ],
     "audio_url": "",
@@ -12852,22 +12967,27 @@
       {
         "type": "verse",
         "label": "Verse 2",
-        "content": "Through the grace of God\nalone\nI'll cast aside these fears I've\nknown\nAnd lift myself from\nThe depths of deep dispair.\nLead me through the darkness\nAnd through each gloomy day.\nTake my hand, oh, precious\nLord\nAnd help me on my way."
+        "content": "Through the grace of God\nalone\nI'll cast aside these fears I've\nknown\nAnd lift myself from\nThe depths of deep dispair."
       },
       {
         "type": "verse",
         "label": "Verse 3",
-        "content": "Give me strength that I might\nfind\nAbiding faith and peace of\nmind\nAnd I won't ask\nWhere do I go from here?"
+        "content": "Lead me through the darkness\nAnd through each gloomy day.\nTake my hand, oh, precious\nLord\nAnd help me on my way."
       },
       {
         "type": "verse",
         "label": "Verse 4",
-        "content": "Please, Lead me through the\ndarkness\nAnd through each gloomy day.\nTake my hand, oh, precious\nLord\nAnd help me on my way."
+        "content": "Give me strength that I might\nfind\nAbiding faith and peace of\nmind\nAnd I won't ask\nWhere do I go from here?."
       },
       {
         "type": "verse",
         "label": "Verse 5",
-        "content": "Give me strength that I might\nfind\nAbiding faith and peace of\nmind\nAnd I won't ask\nWhere do I go from here"
+        "content": "Please, Lead me through the\ndarkness\nAnd through each gloomy day.\nTake my hand, oh, precious\nLord\nAnd help me on my way."
+      },
+      {
+        "type": "verse",
+        "label": "Verse 6",
+        "content": "Give me strength that I might\nfind\nAbiding faith and peace of\nmind\nAnd I won't ask\nWhere do I go from here?"
       }
     ],
     "audio_url": "",

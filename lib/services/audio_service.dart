@@ -8,14 +8,12 @@ class AudioService {
   final AudioPlayer _player = AudioPlayer();
   String? _currentUrl;
 
+  Stream<Duration> get positionStream => _player.positionStream;
+  Stream<Duration?> get durationStream => _player.durationStream;
   bool get isPlaying => _player.playing;
-  bool get hasUrl => _currentUrl != null;
 
   Future<void> play(String url) async {
-    if (url.isEmpty) {
-      throw Exception('No audio URL provided');
-    }
-    // If same URL is already playing, pause it
+    if (url.isEmpty) throw Exception('No audio URL');
     if (_currentUrl == url && _player.playing) {
       await _player.pause();
     } else {
@@ -25,16 +23,9 @@ class AudioService {
     }
   }
 
-  Future<void> pause() async {
-    await _player.pause();
-  }
+  Future<void> pause() async => _player.pause();
+  Future<void> stop() async => _player.stop();
+  Future<void> seek(Duration position) async => _player.seek(position);
 
-  Future<void> stop() async {
-    await _player.stop();
-    _currentUrl = null;
-  }
-
-  void dispose() {
-    _player.dispose();
-  }
+  void dispose() => _player.dispose();
 }
